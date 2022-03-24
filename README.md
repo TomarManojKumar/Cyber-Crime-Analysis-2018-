@@ -1,1 +1,3 @@
 # Cyber-Crime-Analysis-2018-
+
+The analysis is all about the Cyber Crimes reported in 32 cities all across India in 2018. Data has been extracted from Kaggle for visualization which consists of various variables consisting of different type of Cyber Crimes like Terrorist Activities, Sexual Exploitation, Extortion, Prank, Fraud, Anger etc. All the findings have been shown in dashboard in form of graphs, pie-chart and maps displaying region wise total Cyber Crimes and Crimes Rates with Cities. The aim was to spot the region and Cities in India having most cyber crimes with further break-up of all crimes.
